@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on few side projects with Python
 - 🚀 I enjoy automating boring tasks that require a lot of time to process
-- 🌱 I’m currently learning Python, Databases, Docker, FastAPI
+- 🌱 I’m currently learning Python, Databases, Docker, FastAPI, Rest API
   
 
 <br/>  
