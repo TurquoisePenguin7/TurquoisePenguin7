@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on few side projects with Python
 - 🚀 I enjoy automating boring tasks that require a lot of time to process
-- 🌱 I’m currently learning Python, JS, Databases, Docker, FastAPI, Rest API
+- 🌱 I’m currently learning Python, JS, Databases(SQLite, MongoDB), Docker, FastAPI, Rest API
 - I have finished CS50x 2023!
   
 
