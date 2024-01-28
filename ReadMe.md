@@ -11,7 +11,7 @@
 - 🚀 I enjoy automating boring tasks that require a lot of time to process
 - 🌱 I’m currently learning Python, JS, Databases(SQLite, MongoDB), Docker, FastAPI, Rest API
 - I have finished CS50x 2023!
-- I am currently doing some Leetcode. I don't like it.
+- I am currently working on my portfolio page!
 
 <br/>  
 
